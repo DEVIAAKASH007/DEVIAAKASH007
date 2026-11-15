@@ -6,10 +6,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Agentic+AI+Applications;Exploring+RAG+and+LLM+Systems;Full-Stack+Development+Enthusiast" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-DEVIAAKASH007-181717?style=for-the-badge&logo=github)](https://github.com/DEVIAAKASH007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KONDAPALLI_DEVI_AAKASH/)
-[![Email](https://img.shields.io/badge/Email-aakashchandw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashchandw@gmail.com)
-
+<div align="center">
+  <a href="https://github.com/DEVIAAKASH007">
+    <img src="https://img.shields.io/badge/GitHub-DEVIAAKASH007-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/KONDAPALLI_DEVI_AAKASH/">
+    <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:aakashchandw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aakashchandw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 </div>
 
 ---
