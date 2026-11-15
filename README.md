@@ -1,5 +1,4 @@
- 
-<div align="center">
+ <div align="center">
 
 # 👋 Hey, I'm Kondapalli Devi Aakash
 
@@ -23,6 +22,11 @@
 - 📊 Interested in solving real-world problems using data and intelligent systems.
 - 🎯 Always learning, experimenting and building new things.
 
+## 🌍 Personal Details
+
+- 📍 **Location:** Rajahmundry, Andhra Pradesh, India
+- 🗣️ **Languages:** Telugu, English
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -32,6 +36,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI / Machine Learning / Deep Learning
@@ -49,6 +54,7 @@
 
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
@@ -66,6 +72,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🗄️ Databases & Tools
 
@@ -74,13 +82,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Time Series](https://img.shields.io/badge/Time_Series_Analysis-008080?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-4682B4?style=for-the-badge)
+
+### 📚 Core Computer Science
+
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-6A5ACD?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-008080?style=for-the-badge)
 
 ---
 
@@ -120,11 +136,6 @@
 
 <div align="center">
 
-## 🌍 Personal Details
-
-- 📍 **Location:** Rajahmundry, Andhra Pradesh, India
-- 🗣️ **Languages:** Telugu, English
-
 ### 💡 "Building intelligent solutions, one project at a time."
 
 ⭐ Thanks for visiting my profile!
@@ -132,5 +143,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DEVIAAKASH007&style=for-the-badge&color=blue)
 
 </div>
-- 📍 Based in Rajahmundry, Andhra Pradesh, India.
-- 🗣️ Languages: Telugu and English.
