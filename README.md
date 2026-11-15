@@ -153,15 +153,6 @@ motto: "Learn. Build. Innovate. Repeat."
 
 </div>
 
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEVIAAKASH007&theme=tokyo-night&hide_border=true)](https://github.com/DEVIAAKASH007)
-
-</div>
 
 ---
 
