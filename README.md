@@ -10,15 +10,15 @@
   <a href="https://github.com/DEVIAAKASH007">
     <img src="https://img.shields.io/badge/GitHub-DEVIAAKASH007-181717?style=for-the-badge&logo=github" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/KONDAPALLI_DEVI_AAKASH/">
     <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:aakashchandw@gmail.com">
     <img src="https://img.shields.io/badge/Email-aakashchandw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-</div>
-
 ---
 
 ## 👨‍💻 About Me
