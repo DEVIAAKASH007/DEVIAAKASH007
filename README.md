@@ -132,3 +132,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DEVIAAKASH007&style=for-the-badge&color=blue)
 
 </div>
+- 📍 Based in Rajahmundry, Andhra Pradesh, India.
+- 🗣️ Languages: Telugu and English.
