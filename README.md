@@ -142,4 +142,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DEVIAAKASH007&style=for-the-badge&color=blue)
 
+[![Email](https://img.shields.io/badge/Email-aakashchandw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashchandw@gmail.com)
 </div>
