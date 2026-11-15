@@ -1,4 +1,7 @@
- <div align="center">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,40:00D4FF,75:9B00FF,100:FF00A8&height=220&section=header&text=KONDAPALLI%20DEVI%20AAKASH&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20AGENTIC%20AI%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=15&animation=twinkling" width="100%" />
 
 # 👋 Hey, I'm Kondapalli Devi Aakash
 
@@ -6,28 +9,39 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Agentic+AI+Applications;Exploring+RAG+and+LLM+Systems;Full-Stack+Development+Enthusiast" alt="Typing SVG" />
 
-<div align="center">
-  <a href="https://github.com/DEVIAAKASH007">
-    <img src="https://img.shields.io/badge/GitHub-DEVIAAKASH007-181717?style=for-the-badge&logo=github" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/KONDAPALLI_DEVI_AAKASH/">
-    <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:aakashchandw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aakashchandw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br/>
+
+<a href="https://github.com/DEVIAAKASH007">
+<img src="https://img.shields.io/badge/GitHub-DEVIAAKASH007-181717?style=for-the-badge&logo=github" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/KONDAPALLI_DEVI_AAKASH/">
+<img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:aakashchandw@gmail.com">
+<img src="https://img.shields.io/badge/Email-aakashchandw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DEVIAAKASH007&label=PROFILE%20VISITORS&color=blueviolet&style=for-the-badge" />
+
 </div>
+
+---
+
 <h2 align="center">⚡ WHO AM I? ⚡</h2>
 
 <div align="center">
 
+```yaml
 name: Kondapalli Devi Aakash
 role: AI/ML Developer
 education: B.Tech - Artificial Intelligence
 university: Amrita Vishwa Vidyapeetham
 location: Rajahmundry, Andhra Pradesh, India
+
 languages:
   - Telugu
   - English
@@ -47,109 +61,158 @@ currently_exploring:
   - Intelligent Software Systems
 
 motto: "Learn. Build. Innovate. Repeat."
-
-</div>
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI / Machine Learning / Deep Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-4169E1?style=for-the-badge)
-
-### 🧠 Generative AI & Agentic AI
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge)
-![RAGAS](https://img.shields.io/badge/RAGAS-E67E22?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗄️ Databases & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📊 Data Analysis & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Time Series](https://img.shields.io/badge/Time_Series_Analysis-008080?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-4682B4?style=for-the-badge)
-
-### 📚 Core Computer Science
-
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-6A5ACD?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-008080?style=for-the-badge)
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVIAAKASH007&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVIAAKASH007&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=DEVIAAKASH007&theme=tokyonight&hide_border=true" />
+```
 
 </div>
 
 ---
 
-## 🧩 LeetCode
+<h2 align="center">🌈 TECH ARSENAL</h2>
+
+<h3 align="center">💻 Programming Languages</h3>
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/KONDAPALLI_DEVI_AAKASH?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/KONDAPALLI_DEVI_AAKASH/)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+<h3 align="center">🤖 AI • MACHINE LEARNING • DEEP LEARNING</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-00BFA6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-3498DB?style=for-the-badge"/>
+
+</div>
+
+<h3 align="center">🧠 GENERATIVE AI & AGENTIC AI</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAGAS-E67E22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge"/>
+
+</div>
+
+<h3 align="center">🌐 FULL STACK DEVELOPMENT</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,flask&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</div>
+
+<h3 align="center">🗄️ DATABASES & DEVELOPER TOOLS</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode&theme=dark" />
+
+</div>
+
+<h3 align="center">📊 DATA SCIENCE & VISUALIZATION</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/EDA-3498DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time%20Series%20Analysis-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+</div>
+
+<h3 align="center">📚 CORE COMPUTER SCIENCE</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6C3483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-008B8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-2980B9?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📊 Contribution Activity
+<h2 align="center">📈 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEVIAAKASH007&theme=tokyo-night&hide_border=true)](https://github.com/DEVIAAKASH007)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DEVIAAKASH007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVIAAKASH007&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=DEVIAAKASH007&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF00A8&currStreakLabel=00E5FF" />
+
+</div>
+
+---
+
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DEVIAAKASH007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+
+</div>
+
+---
+
+<h2 align="center">🧩 LEETCODE CODING ZONE</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/KONDAPALLI_DEVI_AAKASH/">
+
+<img src="https://leetcard.jacoblin.cool/KONDAPALLI_DEVI_AAKASH?theme=dark&font=Fira%20Code&ext=heatmap" width="80%" />
+
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/KONDAPALLI_DEVI_AAKASH/">
+
+<img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+</div>
+
+---
+
+<h2 align="center">📈 CONTRIBUTION UNIVERSE</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVIAAKASH007&bg_color=0D1117&color=00E5FF&line=9B59FF&point=FF00A8&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" width="100%" />
 
 </div>
 
@@ -157,10 +220,10 @@ motto: "Learn. Build. Innovate. Repeat."
 
 <div align="center">
 
-### 💡 "Building intelligent solutions, one project at a time."
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=FF00A8&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80" />
 
-⭐ Thanks for visiting my profile!
+### 💜 THINK • BUILD • INNOVATE • REPEAT
 
-![Profile Views](https://komarev.com/ghpvc/?username=DEVIAAKASH007&style=for-the-badge&color=blue)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A8,40:9B00FF,75:00D4FF,100:090979&height=120&section=footer" width="100%" />
 
 </div>
