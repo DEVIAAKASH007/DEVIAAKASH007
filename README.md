@@ -120,6 +120,11 @@
 
 <div align="center">
 
+## 🌍 Personal Details
+
+- 📍 **Location:** Rajahmundry, Andhra Pradesh, India
+- 🗣️ **Languages:** Telugu, English
+
 ### 💡 "Building intelligent solutions, one project at a time."
 
 ⭐ Thanks for visiting my profile!
