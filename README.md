@@ -19,23 +19,36 @@
     <img src="https://img.shields.io/badge/Email-aakashchandw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
----
+<h2 align="center">⚡ WHO AM I? ⚡</h2>
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Pursuing B.Tech in **Artificial Intelligence** at Amrita Vishwa Vidyapeetham.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning and Generative AI.
-- 🧠 Exploring **Agentic AI, RAG systems, LLM applications and AI evaluation**.
-- 💻 Building AI-powered applications with full-stack technologies.
-- 📊 Interested in solving real-world problems using data and intelligent systems.
-- 🎯 Always learning, experimenting and building new things.
+name: Kondapalli Devi Aakash
+role: AI/ML Developer
+education: B.Tech - Artificial Intelligence
+university: Amrita Vishwa Vidyapeetham
+location: Rajahmundry, Andhra Pradesh, India
+languages:
+  - Telugu
+  - English
 
-## 🌍 Personal Details
+interests:
+  - Artificial Intelligence
+  - Machine Learning & Deep Learning
+  - Generative AI & Agentic AI
+  - Retrieval Augmented Generation (RAG)
+  - Full Stack Development
+  - Data Science & Time Series Analysis
 
-- 📍 **Location:** Rajahmundry, Andhra Pradesh, India
-- 🗣️ **Languages:** Telugu, English
+currently_exploring:
+  - LLM Applications
+  - Agentic Workflows
+  - AI Evaluation & Observability
+  - Intelligent Software Systems
 
----
+motto: "Learn. Build. Innovate. Repeat."
+
+</div>
 
 ## 🛠️ Tech Stack & Skills
 
